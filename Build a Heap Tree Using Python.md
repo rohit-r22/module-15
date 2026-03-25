@@ -70,3 +70,7 @@ print('The value of the expression tree is',evaluate(root))
 
 ## OUTPUT
 ![Screenshot 2025-05-05 005758](https://github.com/user-attachments/assets/797eb3fa-b809-4c88-abe3-9f7bcf3c2faf)
+
+
+## RESULT
+Thus The result of the expression tree evaluation is the computed value derived from traversing the tree and applying the operations based on the operator nodes and operand values at the leaf nodes.
